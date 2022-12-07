@@ -57,3 +57,19 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.lightgray {
+  background-color: lightgray;
+}
+
+.white {
+  background-color: white;
+}
