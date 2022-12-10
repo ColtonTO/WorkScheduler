@@ -24,7 +24,8 @@
 * Red is current hour
 
 ## Website Screenshot
-![Screenshot_20221210_123526](https://user-images.githubusercontent.com/116236745/206842664-e27c01da-e0f7-436d-a193-3728db1d00a2.png)
+![Screenshot_20221210_011300](https://user-images.githubusercontent.com/116236745/206842751-d9983821-c673-4850-a57c-548a44ab6bd6.png)
+
 
 ## License 
 MIT License
