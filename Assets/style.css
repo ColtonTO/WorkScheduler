@@ -59,17 +59,19 @@ textarea {
 }
 
 .red {
-  background-color: red;
+  background-color: #ff6961;
 }
 
 .green {
-  background-color: green;
+  background-color: #77dd77;
 }
 
-.lightgray {
+.gray {
   background-color: lightgray;
 }
 
 .white {
   background-color: white;
 }
+
+
